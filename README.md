@@ -13,6 +13,6 @@ My name is Tianyi Shi. I am an undergraduate student studying biochemistry at Un
 <!-- - ⚡ Fun fact: ...
 -->
 
-### 始めして
+### 始めまして
 
 石天熠（せき　てんゆう）と申します。イギリスのオクスフォード大学で生化学を専攻しています。卒業後、日本の大学で博士課程に申し込むと思います。
