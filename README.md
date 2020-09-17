@@ -3,7 +3,7 @@
 My name is Tianyi Shi. I am an undergraduate student studying biochemistry at University of Oxford.
 
 <!-- - 🔭 I’m currently working on parsing PDB files in Rust with nom. -->
-- 👨‍💻 I'm an intermediate programmer in Javascript, Python and R. [My most popular poject](https://github.com/TianyiShi2001/rmarkdown-vscode) was an VS Code extension written in TypeScript for better R Markdown file editing experience.
+- 👨‍💻 I code in Rust, Javascript, Python and R. [My most popular poject](https://github.com/TianyiShi2001/rmarkdown-vscode) was an VS Code extension written in TypeScript for better R Markdown file editing experience.
 - 🌱 I’m currently learning proper bioinformatics by myself, in addition to biochemistry which is my major. I'm learning Rust as my first step towards low-level programming. Rust has [near-C performance](https://benchmarksgame-team.pages.debian.net/benchmarksgame/q6600/which-programs-are-fastest.html) while being much better documented and designed (for its safety, centralised package registry, automated and standardised documentation generation, and so on), which fascinated me.
 - 🧬 I'm actively contributing to [**rust-bio**](https://github.com/rust-bio/rust-bio).
 - 🦀 I'm recently lauching an ambitious project, [**rust-bio-edu**](https://github.com/TianyiShi2001/rust-bio-edu), which aims to implement as much as possible algorithms in Rust and explaining them to people. I hope this project will help those who want to learn bioinformatics to realize that, proper, fast, production-ready bioinformatics algorithms doesn't need to be implemented in C/C++. I will show that the simplicity and elegance of Rust has made low-level programming required by bioinformatics much more approachable to biologists. **I'm looking for collaborators on this project.**
@@ -17,4 +17,4 @@ My name is Tianyi Shi. I am an undergraduate student studying biochemistry at Un
 
 ### 始めまして
 
-石天熠（せき　てんゆう）と申します。イギリスのオクスフォード大学で生化学を専攻しています。卒業後、日本の大学で博士課程に申し込むと思います。
+石天熠（せき　てんゆう）と申します。イギリスのオクスフォード大学で生化学を専攻していますが、実はバイオインフォマティクスの方には熱心であります。卒業後、日本の大学で博士課程に申し込もうと思います。
