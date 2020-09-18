@@ -18,3 +18,5 @@ My name is Tianyi Shi. I am an undergraduate student studying biochemistry at Un
 ### 始めまして
 
 石天熠（せき　てんゆう）と申します。イギリスのオクスフォード大学で生化学を専攻していますが、実はバイオインフォマティクスの方には熱心であります。卒業後、日本の大学で博士課程に申し込もうと思います。
+
+[![Tianyi's github stats](https://github-readme-stats.vercel.app/api?username=TianyiShi2001)](https://github.com/TianyiShi2001/github-readme-stats)
