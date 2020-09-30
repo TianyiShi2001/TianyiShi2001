@@ -21,4 +21,11 @@ My name is Tianyi Shi. I am an undergraduate student studying biochemistry at Un
 
 [![Tianyi's github stats](https://github-readme-stats.vercel.app/api?username=TianyiShi2001)](https://github.com/TianyiShi2001/github-readme-stats)
 
+### Currently working on:
+
 [![rust-bio](https://github-readme-stats.vercel.app/api/pin/?username=rust-bio&repo=rust-bio)](https://github.com/rust-bio/rust-bio)
+[![clock-cli-rs](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=clock-cli-rs)](https://github.com/TianyiShi2001/clock-cli-rs)
+[![rust-bio-edu](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=rust-bio-edu)](https://github.com/TianyiShi2001/rust-bio-edu)
+[![ido](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=ido)](https://github.com/TianyiShi2001/ido)
+
+### Other notable repositories:
