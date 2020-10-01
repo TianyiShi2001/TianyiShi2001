@@ -6,7 +6,7 @@ My name is Tianyi Shi. I am an undergraduate student studying biochemistry at Un
 - 👨‍💻 I code in Rust, Javascript, Python and R. [My most popular poject](https://github.com/TianyiShi2001/rmarkdown-vscode) was an VS Code extension written in TypeScript for better R Markdown file editing experience.
 - 🌱 I’m currently learning proper bioinformatics by myself, in addition to biochemistry which is my major. I'm learning Rust as my first step towards low-level programming. Rust has [near-C performance](https://benchmarksgame-team.pages.debian.net/benchmarksgame/q6600/which-programs-are-fastest.html) while being much better documented and designed (for its safety, centralised package registry, automated and standardised documentation generation, and so on), which fascinated me.
 - 🧬 I'm actively contributing to [**rust-bio**](https://github.com/rust-bio/rust-bio).
-- 🦀 I'm recently lauching an ambitious project, [**rust-bio-edu**](https://github.com/TianyiShi2001/rust-bio-edu), which aims to implement as much as possible algorithms in Rust and explaining them to people. I hope this project will help those who want to learn bioinformatics to realize that, proper, fast, production-ready bioinformatics algorithms doesn't need to be implemented in C/C++. I will show that the simplicity and elegance of Rust has made low-level programming required by bioinformatics much more approachable to biologists. **I'm looking for collaborators on this project.**
+- 🦀 I'm recently lauching an ambitious project, [**Learn Bioinformatics by Writing Entirely Too Many Algorithms in Rust**](https://github.com/TianyiShi2001/too-many-bioinformatics-algorithms), which aims to implement as much as possible algorithms in Rust and explaining them to people. I hope this project will help those who want to learn bioinformatics to realize that, proper, fast, production-ready bioinformatics algorithms doesn't need to be implemented in C/C++. I will show that the simplicity and elegance of Rust has made low-level programming required by bioinformatics much more approachable to biologists. **I'm looking for collaborators on this project.**
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
@@ -25,7 +25,7 @@ My name is Tianyi Shi. I am an undergraduate student studying biochemistry at Un
 
 [![rust-bio](https://github-readme-stats.vercel.app/api/pin/?username=rust-bio&repo=rust-bio)](https://github.com/rust-bio/rust-bio)
 [![clock-cli-rs](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=clock-cli-rs)](https://github.com/TianyiShi2001/clock-cli-rs)
-[![rust-bio-edu](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=rust-bio-edu)](https://github.com/TianyiShi2001/rust-bio-edu)
+[![too-many-bioinformatics-algorithms](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=too-many-bioinformatics-algorithms)](https://github.com/TianyiShi2001/too-many-bioinformatics-algorithms)
 [![ido](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=ido)](https://github.com/TianyiShi2001/ido)
 
 ### Other notable repositories:
