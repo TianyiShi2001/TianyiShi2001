@@ -28,4 +28,4 @@ My name is Tianyi Shi. I am an undergraduate student studying biochemistry at Un
 [![too-many-bioinformatics-algorithms](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=too-many-bioinformatics-algorithms)](https://github.com/TianyiShi2001/too-many-bioinformatics-algorithms)
 [![protein](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=protein)](https://github.com/TianyiShi2001/protein)
 
-### Other notable repositories:
+[![trophy](https://github-profile-trophy.vercel.app/?username=TianyiShi2001)](https://github.com/ryo-ma/github-profile-trophy)
