@@ -3,10 +3,10 @@
 My name is Tianyi Shi. I am an undergraduate student studying biochemistry at University of Oxford.
 
 <!-- - 🔭 I’m currently working on parsing PDB files in Rust with nom. -->
-- 👨‍💻 I code in Rust, Javascript, Python and R. [My most popular poject](https://github.com/TianyiShi2001/rmarkdown-vscode) was an VS Code extension written in TypeScript for better R Markdown file editing experience.
-- 🌱 I’m currently learning proper bioinformatics by myself, in addition to biochemistry which is my major. I'm learning Rust as my first step towards low-level programming. Rust has [near-C performance](https://benchmarksgame-team.pages.debian.net/benchmarksgame/q6600/which-programs-are-fastest.html) while being much better documented and designed (for its safety, centralised package registry, automated and standardised documentation generation, and so on), which fascinated me.
+- 👨‍💻 I code in Rust, Javascript, Python and R. I'm also trying to learn C++.
+- 🌱 I’m currently learning some bioinformatics by myself, in addition to biochemistry which is my major.
 - 🧬 I'm actively contributing to [**rust-bio**](https://github.com/rust-bio/rust-bio).
-- 🦀 I'm recently lauching an ambitious project, [**Learn Bioinformatics by Writing Entirely Too Many Algorithms in Rust**](https://github.com/TianyiShi2001/too-many-bioinformatics-algorithms), which aims to implement as much as possible algorithms in Rust and explaining them to people. I hope this project will help those who want to learn bioinformatics to realize that, proper, fast, production-ready bioinformatics algorithms doesn't need to be implemented in C/C++. I will show that the simplicity and elegance of Rust has made low-level programming required by bioinformatics much more approachable to biologists. **I'm looking for collaborators on this project.**
+- 🦀 I'm interested in algorithms. I'm maintaining a Rust port of [William Fiset's Algorithms & Data structures Project](https://github.com/williamfiset/Algorithms): [TianyiShi2001/Algorithms](https://github.com/TianyiShi2001/Algorithms). I also have [another project dedicated to bioinformatics algorithms](https://github.com/TianyiShi2001/too-many-bioinformatics-algorithms)  but it's currently of lower priority/
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
@@ -26,6 +26,6 @@ My name is Tianyi Shi. I am an undergraduate student studying biochemistry at Un
 [![rust-bio](https://github-readme-stats.vercel.app/api/pin/?username=rust-bio&repo=rust-bio)](https://github.com/rust-bio/rust-bio)
 [![nom-pdb](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=nom-pdb)](https://github.com/TianyiShi2001/nom-pdb)
 [![too-many-bioinformatics-algorithms](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=too-many-bioinformatics-algorithms)](https://github.com/TianyiShi2001/too-many-bioinformatics-algorithms)
-[![protein](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=protein)](https://github.com/TianyiShi2001/protein)
+[![algorithms](https://github-readme-stats.vercel.app/api/pin/?username=TianyiShi2001&repo=Algorithms)](https://github.com/TianyiShi2001/Algorithms)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TianyiShi2001)](https://github.com/ryo-ma/github-profile-trophy)
